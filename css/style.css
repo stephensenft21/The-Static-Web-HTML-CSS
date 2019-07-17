@@ -1,0 +1,29 @@
+article {
+    border: 1px solid lightblue;
+    width: 30%;
+    justify-self: baseline;
+    
+    
+    
+}
+h1 {
+    border: 1px dotted lightgray;
+    display: flex;
+    justify-content: center
+}
+.Description{
+    display: flex;
+    justify-content: center;
+}
+.pricing {
+    text-emphasis: bold;
+}
+
+.availability{
+    background-color: darkgrey
+}
+
+img {
+    display: flex; 
+    justify-content: center;
+}
